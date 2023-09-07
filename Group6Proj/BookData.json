@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Harry Potter and the Soccer's Stone",
+        "authorName": "J.K. Rowling",
+        "price": "$10.99",
+        "category": "Thriller",
+        "id": 1001,
+        "isFavorite": true,
+        "description": "An orphaned boy enrolls in a school of wisardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+        "imageName": "hp1"
+    },
+    {
+        "name": "Harry Potter and the Chamber of Secrets",
+        "authorName": "J.K. Rowling",
+        "price": "$19.99",
+        "category": "Mystery",
+        "id": 1002,
+        "isFavorite": false,
+        "description": "Harry, Ron, and Hermione return to Hogwarts for their second year, which proves to be more challenging than the last. The Chamber of Secrets has been opened, leaving students and ghosts petrified by an unleashed monster. Harry must face up to claims that he is the heir of Salazar Slytherin (founder of the Chamber), learn that he can speak Parseltongue, and also discover the properties of a mysterious diary, only to find himself trapped within the Chamber itself.",
+        "imageName": "hp2"
+    },
+    {
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "authorName": "J.K. Rowling",
+        "price": "$15.99",
+        "category": "Drama",
+        "id": 1003,
+        "isFavorite": false,
+        "description": "Harry's third year sees the boy wizard, along with his friends, attending Hogwarts School once again. Professor R. J. Lupin joins the staff as Defence Against the Dark Arts teacher, while convicted murderer Sirius Black escapes from Azkaban. The Ministry of Magic entrusts the Dementors to guard Hogwarts from Black. Harry learns more about his past and his connection with the escaped prisoner.",
+        "imageName": "hp3"
+    },
+    {
+        "name": "Harry Potter and the Goblet of Fire",
+        "authorName": "J.K. Rowling",
+        "price": "$19.99",
+        "category": "Thriller",
+        "id": 1004,
+        "isFavorite": true,
+        "description": "During Harry's fourth year, Hogwarts plays host to the Triwizard Tournament. Three European schools participate in the tournament, with three 'champions' representing each school in the deadly tasks. The Goblet of Fire chooses Fleur Delacour, Viktor Krum, and Cedric Diggory to compete against each other. However, Harry's name is also produced from the Goblet thus making him a fourth champion, which leads to a terrifying encounter with a reborn Lord Voldemort.",
+        "imageName": "hp4"
+    },
+    {
+        "name": "Harry Potter and the Order of the Phoenix",
+        "authorName": "J.K. Rowling",
+        "price": "$25.99",
+        "category": "Mystery",
+        "id": 1005,
+        "isFavorite": false,
+        "description": "Harry's fifth year begins with him being attacked by Dementors in Little Whinging. Later, he finds out that the Ministry of Magic is in denial of Lord Voldemort's return. Harry is also beset by disturbing and realistic nightmares, while Professor Umbridge, a representative of Minister for Magic Cornelius Fudge, is the new Defence Against the Dark Arts teacher. Harry becomes aware that Voldemort is after a prophecy which reveals: neither can live while the other survives. The rebellion involving the students of Hogwarts, secret organisation Order of the Phoenix, the Ministry of Magic, and the Death Eaters begins.",
+        "imageName": "hp5"
+    },
+    {
+        "name": "Harry Potter and the Half-Blood Prince",
+        "authorName": "J.K. Rowling",
+        "price": "$27.99",
+        "category": "Drama",
+        "id": 1006,
+        "isFavorite": false,
+        "description": "In Harry's sixth year at Hogwarts, Lord Voldemort and his Death Eaters are increasing their terror upon the Wizarding and Muggle worlds. Headmaster Albus Dumbledore persuades his old friend Horace Slughorn to return to Hogwarts as a professor as there is a vacancy to fill. There is a more important reason, however, for Slughorn's return. While in a Potions lesson, Harry takes possession of a strangely annotated school textbook, inscribed as belonging to the 'Half-Blood Prince'. Draco Malfoy struggles to carry out a mission presented to him by Voldemort. Meanwhile, Dumbledore and Harry secretly work together to discover the method on how to destroy the Dark Lord once and for all.",
+        "imageName": "hp6"
+    },
+    {
+        "name": "Harry Potter and the Deathly Hallows",
+        "authorName": "J.K. Rowling",
+        "price": "$29.99",
+        "category": "Thriller",
+        "id": 1007,
+        "isFavorite": false,
+        "description": "The heart of Book 7 is a hero's mission--not just in Harry's quest for the Horcruxes, but in his journey from boy to man--and Harry faces more danger than that found in all six books combined, from the direct threat of the Death Eaters and you-know-who, to the subtle perils of losing faith in himself. Attentive readers would do well to remember Dumbledore's warning about making the choice between what is right and what is easy, and know that Rowling applies the same difficult principle to the conclusion of her series. While fans will find the answers to hotly speculated questions about Dumbledore, Snape, and you-know-who, it is a testament to Rowling's skill as a storyteller that even the most astute and careful reader will be taken by surprise.",
+        "imageName": "hp7"
+    },
+    {
+        "name": "The Hunger Games",
+        "authorName": "Suzanne Collins",
+        "price": "$9.99",
+        "category": "Thriller",
+        "id": 1008,
+        "isFavorite": true,
+        "description": "Winning means fame and fortune. Losing means certain death. The Hunger Games have begun. . . . In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before-and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weigh survival against humanity and life against love.",
+        "imageName": "hg1"
+    },
+    {
+        "name": "Catching Fire",
+        "authorName": "Suzanne Collins",
+        "price": "$19.99",
+        "category": "Mystery",
+        "id": 1009,
+        "isFavorite": true,
+        "description": "Against all odds, Katniss Everdeen has won the annual Hunger Games with fellow district tribute Peeta Mellark. But it was a victory won by defiance of the Capitol and their harsh rules. Katniss and Peeta should be happy. After all, they have just won for themselves and their families a life of safety and plenty. But there are rumors of rebellion among the subjects, and Katniss and Peeta, to their horror, are the faces of that rebellion. The Capitol is angry. The Capitol wants revenge.Suzanne Collins continues the amazing story of Katniss Everdeen in this second novel of the phenomenal Hunger Games trilogy.",
+        "imageName": "hg2"
+    },
+    {
+        "name": "MockingJay",
+        "authorName": "Suzanne Collins",
+        "price": "$29.99",
+        "category": "Drama",
+        "id": 1010,
+        "isFavorite": false,
+        "description": "Against all odds, Katniss Everdeen has survived the Hunger Games twice. But now that she's made it out of the bloody arena alive, she's still not safe. The Capitol is angry. The Capitol wants revenge. Who do they think should pay for the unrest? Katniss. And what's worse, President Snow has made it clear that no one else is safe either. Not Katniss's family, not her friends, not the people of District 12. Powerful and haunting, this thrilling final installment of Suzanne Collins's groundbreaking The Hunger Games trilogy promises to be one of the most talked about books of the year.",
+        "imageName": "hg3"
+    }
+]
